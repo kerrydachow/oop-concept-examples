@@ -1,5 +1,5 @@
 """
-Polymorphism with Inheritance
+Method overriding
 -----------------------------
 
 -   Using method overriding to achieve polymorphism
