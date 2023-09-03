@@ -1,3 +1,10 @@
+"""
+Order of Initialization
+----------------------------------
+
+- super() must be explicitly called
+"""
+
 # Example 1.
 class Animal:
     def __init__(self):
